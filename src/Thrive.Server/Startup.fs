@@ -1,12 +1,9 @@
 module Thrive.Server.Program
 
-open Microsoft.AspNetCore
 open Microsoft.AspNetCore.Authentication.Cookies
 open Microsoft.AspNetCore.Builder
-open Microsoft.AspNetCore.Hosting
 open Microsoft.Extensions.DependencyInjection
 open Microsoft.Extensions.Hosting
-open Bolero
 open Bolero.Remoting.Server
 open Bolero.Server
 open Thrive

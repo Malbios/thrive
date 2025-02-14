@@ -2,7 +2,6 @@ module Thrive.Server.Index
 
 open Microsoft.AspNetCore.Components
 open Microsoft.AspNetCore.Components.Web
-open Bolero
 open Bolero.Html
 open Bolero.Server.Html
 open Thrive
